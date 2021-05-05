@@ -37,7 +37,7 @@ export const darkColors: Colors = {
   ...baseColors,
   ...brandColors,
   secondary: "#338c15", //Title?
-  background: "#40290e", //#40290e
+  background: "#25190a", //#40290e
   backgroundDisabled: "#291e08",
   contrast: "#FFFFFF",
   invertedContrast: "#191326",
@@ -45,7 +45,7 @@ export const darkColors: Colors = {
   primaryDark: "#291e08", //was 0098A1
   tertiary: "#353547",
   text: "#338c15",
-  textDisabled: "#99a917",
+  textDisabled: "#338c15",
   textSubtle: "#99a917",
   borderColor: "#524B63",
   card: "#0e1f0e",
