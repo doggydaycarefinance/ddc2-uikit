@@ -17,7 +17,7 @@ export const brandColors = {
 export const lightColors: Colors = {
   ...baseColors,
   ...brandColors,
-  background: "#8EE4AF",
+  background: "#ADE48E", 
   backgroundDisabled: "#E9EAEB",
   contrast: "#05386B",
   invertedContrast: "#5CDB95",
@@ -36,17 +36,17 @@ export const lightColors: Colors = {
 export const darkColors: Colors = {
   ...baseColors,
   ...brandColors,
-  secondary: "#50390c", //scroll bar?
-  background: "#343135",
+  secondary: "#338c15", //Title?
+  background: "#40290e", //#40290e
   backgroundDisabled: "#291e08",
   contrast: "#FFFFFF",
   invertedContrast: "#191326",
   input: "#483f5a",
   primaryDark: "#291e08", //was 0098A1
   tertiary: "#353547",
-  text: "#22610d",
-  textDisabled: "#656f10",
-  textSubtle: "#656f10",
+  text: "#338c15",
+  textDisabled: "#99a917",
+  textSubtle: "#99a917",
   borderColor: "#524B63",
   card: "#0e1f0e",
   gradients: {
