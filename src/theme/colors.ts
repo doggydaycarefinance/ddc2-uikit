@@ -2,10 +2,10 @@ import { Colors } from "./types";
 
 export const baseColors = {
   failure: "#F72B50",
-  primary: "#05386B",
+  primary: "#379683",
   primaryBright: "#5CDB95",
-  primaryDark: "#05386B",
-  secondary: "#379683",
+  primaryDark: "#291e08",
+  secondary: "#05386B",
   success: "#68CF29",
   warning: "#FFAB2D",
 };
@@ -13,38 +13,21 @@ export const baseColors = {
 export const brandColors = {
   binance: "#F0B90B",
 };
-/*export const lightColors: Colors = {
-  ...baseColors,
-  ...brandColors,
-  background: "#FAF9FA",
-  backgroundDisabled: "#E9EAEB",
-  contrast: "#191326",
-  invertedContrast: "#FFFFFF",
-  input: "#eeeaf4",
-  tertiary: "#EFF4F5",
-  text: "#452A7A",
-  textDisabled: "#BDC2C4",
-  textSubtle: "#8f80ba",
-  borderColor: "#E9EAEB",
-  card: "#FFFFFF",
-  gradients: {
-    bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
-  },
-};*/
+
 export const lightColors: Colors = {
   ...baseColors,
   ...brandColors,
-  background: "#EDF5E1",
+  background: "#8EE4AF",
   backgroundDisabled: "#E9EAEB",
   contrast: "#05386B",
   invertedContrast: "#5CDB95",
   input: "#eeeaf4",
   tertiary: "#EFF4F5",
-  text: "#EDF5E1",
-  textDisabled: "#BDC2C4",
-  textSubtle: "#8EE4AF",
+  text: "#05386B",
+  textDisabled: "#05386B",
+  textSubtle: "#379683",
   borderColor: "#05386B",
-  card: "#05386B",
+  card: "#edf5e1",
   gradients: {
     bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
   },
@@ -53,19 +36,19 @@ export const lightColors: Colors = {
 export const darkColors: Colors = {
   ...baseColors,
   ...brandColors,
-  secondary: "#9A6AFF",
+  secondary: "#50390c", //scroll bar?
   background: "#343135",
-  backgroundDisabled: "#3c3742",
+  backgroundDisabled: "#291e08",
   contrast: "#FFFFFF",
   invertedContrast: "#191326",
   input: "#483f5a",
-  primaryDark: "#0098A1",
+  primaryDark: "#291e08", //was 0098A1
   tertiary: "#353547",
-  text: "#EAE2FC",
-  textDisabled: "#666171",
-  textSubtle: "#c9c4d4",
+  text: "#22610d",
+  textDisabled: "#656f10",
+  textSubtle: "#656f10",
   borderColor: "#524B63",
-  card: "#27262c",
+  card: "#0e1f0e",
   gradients: {
     bubblegum: "linear-gradient(139.73deg, #313D5C 0%, #3D2A54 100%)",
   },
