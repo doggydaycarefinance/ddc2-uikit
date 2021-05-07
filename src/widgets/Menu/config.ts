@@ -117,11 +117,11 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    href: "https://t.me/sloth_finance",
+
     items: [
       {
         label: "English",
-        href: "https://t.me/goosedefi",
+        href: "https://t.me/sloth_finance",
       },
       // {
       //   label: "Bahasa Indonesia",
