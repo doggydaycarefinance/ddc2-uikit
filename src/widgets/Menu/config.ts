@@ -118,8 +118,6 @@ export const socials = [
     label: "Telegram",
     icon: "TelegramIcon",
     href: "https://t.me/sloth_finance",
-  },
-  {
     items: [
       {
         label: "English",
@@ -180,6 +178,7 @@ export const socials = [
     icon: "TwitterIcon",
     href: "https://twitter.com/sloth_finance/",
   },
+
   /*{
     label: "Reddit",
     icon: "RedditIcon",

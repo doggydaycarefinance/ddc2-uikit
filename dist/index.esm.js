@@ -2103,11 +2103,11 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://exchange.pancakeswap.finance",
+                href: "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xF11E08d818a6b5fA18C6A477fa683DCC9d8d3950",
             },
             {
                 label: "Liquidity",
-                href: "https://exchange.pancakeswap.finance/#/pool",
+                href: "https://exchange.pancakeswap.finance/#/add/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/0xF11E08d818a6b5fA18C6A477fa683DCC9d8d3950",
             },
         ],
     },
@@ -2192,15 +2192,15 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/goosedefi/",
+                href: "http://github.com/slothfinance",
             },
             {
                 label: "Docs",
-                href: "https://goosedefi.gitbook.io/goose-finance/",
+                href: "https://docs.slothfinance.com",
             },
             {
                 label: "Blog",
-                href: "https://goosefinance.medium.com/",
+                href: "https://sloth-finance.medium.com",
             },
         ],
     },
@@ -2209,6 +2209,7 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
+        href: "https://t.me/sloth_finance",
         items: [
             {
                 label: "English",
@@ -2218,62 +2219,62 @@ var socials = [
             //   label: "Bahasa Indonesia",
             //   href: "https://t.me/PancakeSwapIndonesia",
             // },
-            {
-                label: "中文",
-                href: "https://t.me/goosefinancechinese",
+            /*{
+              label: "中文",
+              href: "https://t.me/goosefinancechinese",
             },
             // {
             //   label: "Tiếng Việt",
             //   href: "https://t.me/PancakeSwapVN",
             // },
             {
-                label: "Italiano",
-                href: "https://t.me/goosefinanceitalian",
+              label: "Italiano",
+              href: "https://t.me/goosefinanceitalian",
             },
             {
-                label: "русский",
-                href: "https://t.me/goosefinancerussian",
+              label: "русский",
+              href: "https://t.me/goosefinancerussian",
             },
             {
-                label: "Türkiye",
-                href: "https://t.me/GooseFinanceTurkey",
+              label: "Türkiye",
+              href: "https://t.me/GooseFinanceTurkey",
             },
             // {
             //   label: "Português",
             //   href: "https://t.me/PancakeSwapPortuguese",
             // },
             {
-                label: "Español",
-                href: "https://t.me/goosefinancespanish",
+              label: "Español",
+              href: "https://t.me/goosefinancespanish",
             },
             {
-                label: "日本語",
-                href: "https://t.me/goosefinancejapanese",
+              label: "日本語",
+              href: "https://t.me/goosefinancejapanese",
             },
             {
-                label: "Français",
-                href: "https://t.me/goosefinancefrench",
+              label: "Français",
+              href: "https://t.me/goosefinancefrench",
+            },*/
+            /*{
+              label: "Announcements",
+              href: "https://t.me/goosefinanceann",
             },
             {
-                label: "Announcements",
-                href: "https://t.me/goosefinanceann",
-            },
-            {
-                label: "Price Bot",
-                href: "https://t.me/BinanceRocketEGG",
-            },
+              label: "Price Bot",
+              href: "https://t.me/BinanceRocketEGG",
+            },*/
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/goosedefi",
+        href: "https://twitter.com/sloth_finance/",
     },
-    {
-        label: "Reddit",
-        icon: "RedditIcon",
-        href: "https://www.reddit.com/r/GooseFinanceofficial",
-    },
+    /*{
+      label: "Reddit",
+      icon: "RedditIcon",
+      href: "https://www.reddit.com/r/GooseFinanceofficial",
+    },*/
 ];
 var MENU_HEIGHT = 64;
 var MENU_ENTRY_HEIGHT = 48;
