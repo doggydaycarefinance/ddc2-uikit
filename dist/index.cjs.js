@@ -2116,11 +2116,11 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xF11E08d818a6b5fA18C6A477fa683DCC9d8d3950",
+                href: "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xAcF12Aa729C7D6f45F7c116DD369930C6d46b584",
             },
             {
                 label: "Liquidity",
-                href: "https://exchange.pancakeswap.finance/#/add/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/0xF11E08d818a6b5fA18C6A477fa683DCC9d8d3950",
+                href: "https://exchange.pancakeswap.finance/#/add/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/0xAcF12Aa729C7D6f45F7c116DD369930C6d46b584",
             },
         ],
     },
