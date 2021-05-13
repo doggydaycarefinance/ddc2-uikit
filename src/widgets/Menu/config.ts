@@ -121,7 +121,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/sloth_finance",
+        href: "https://t.me/doggydaycarefinance",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -176,7 +176,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/sloth_finance/",
+    href: "https://twitter.com/DogDaycareDefi/",
   },
 
   /*{

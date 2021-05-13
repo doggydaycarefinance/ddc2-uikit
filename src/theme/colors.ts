@@ -1,55 +1,55 @@
 import { Colors } from "./types";
 
 export const baseColors = {
-  failure: "#F72B50",
-  primary: "#379683",
-  primaryBright: "#5CDB95",
-  primaryDark: "#291e08",
-  secondary: "#05386B",
-  success: "#68CF29",
-  warning: "#FFAB2D",
+  failure: "#4CED9A",
+  primary: "#bc6f54",
+  primaryBright: "#bc6f54",
+  primaryDark: "#bc6f54",
+  secondary: "#86ad37",
+  success: "#D13257",
+  warning: "#3884FF",
 };
 
 export const brandColors = {
-  binance: "#F0B90B",
+  binance: "#0C41F0",
 };
 
 export const lightColors: Colors = {
   ...baseColors,
   ...brandColors,
-  background: "#ADE48E", 
-  backgroundDisabled: "#E9EAEB",
-  contrast: "#05386B",
-  invertedContrast: "#5CDB95",
-  input: "#eeeaf4",
-  tertiary: "#EFF4F5",
-  text: "#05386B",
-  textDisabled: "#05386B",
-  textSubtle: "#379683",
-  borderColor: "#05386B",
-  card: "#edf5e1",
+  background: "#FAFAFA",
+  backgroundDisabled: "#EBE9E8",
+  contrast: "#202613",
+  invertedContrast: "#FFFFFF",
+  input: "#F1F5EB",
+  tertiary: "#F5F1F0",
+  text: "#5F7A2A",
+  textDisabled: "#C4BFBC",
+  textSubtle: "#ABBA80",
+  borderColor: "#EBE9E8",
+  card: "#FFFFFF",
   gradients: {
-    bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
+    bubblegum: "linear-gradient(139.73deg, #FFE8E6 0%, #F3EFFF 100%)",
   },
 };
 
 export const darkColors: Colors = {
   ...baseColors,
   ...brandColors,
-  secondary: "#338c15", //Title?
-  background: "#25190a", //#40290e
-  backgroundDisabled: "#291e08",
+  secondary: "#D0FF6B",
+  background: "#323631",
+  backgroundDisabled: "#3D4237",
   contrast: "#FFFFFF",
-  invertedContrast: "#191326",
-  input: "#483f5a",
-  primaryDark: "#291e08", //was 0098A1
-  tertiary: "#353547",
-  text: "#338c15",
-  textDisabled: "#338c15",
-  textSubtle: "#99a917",
-  borderColor: "#524B63",
-  card: "#0e1f0e",
+  invertedContrast: "#202613",
+  input: "#50593E",
+  primaryDark: "#A10800",
+  tertiary: "#474736",
+  text: "#F5FCE3",
+  textDisabled: "#6B7060",
+  textSubtle: "#CED4C3",
+  borderColor: "#5C634C",
+  card: "#2A2B25",
   gradients: {
-    bubblegum: "linear-gradient(139.73deg, #313D5C 0%, #3D2A54 100%)",
+    bubblegum: "linear-gradient(139.73deg, #5C5031 0%, #3D2A54 100%)",
   },
 };
